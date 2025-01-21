@@ -1,0 +1,9 @@
+# Ignorar arquivos .env em subdiretórios também
+**/.env
+
+# Ignorar arquivos .env.local em subdiretórios também
+**/.env.local
+
+# permiitir o arquivo env de exemplo subir para o repositório
+!**/.env.example
+```
